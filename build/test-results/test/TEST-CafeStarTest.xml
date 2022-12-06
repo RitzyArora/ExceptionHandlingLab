@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CafeStarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-18T15:52:58" hostname="DESKTOP-H71NKJ0" time="0.107">
+  <properties/>
+  <testcase name="shouldCheckForPositiveValueOfAmount()" classname="CafeStarTest" time="0.08"/>
+  <testcase name="shouldThrowIllegalArgumentExceptionWhenInvalidAmountIsGiven()" classname="CafeStarTest" time="0.011"/>
+  <testcase name="shouldThrowIllegalArgumentExceptionWhenInvalidQuantityIsGiven()" classname="CafeStarTest" time="0.005"/>
+  <testcase name="shouldCheckForPositiveValueOfQuantity()" classname="CafeStarTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
